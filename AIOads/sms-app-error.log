@@ -1,0 +1,18 @@
+[30-Aug-2014 03:06:24 UTC] PHP Notice:  Undefined variable: requestId in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 112
+[30-Aug-2014 03:06:24 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:11:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/lib/sms/SmsReceiver.php:37
+Stack trace:
+#0 /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php(9): SmsReceiver->__construct()
+#1 {main}
+  thrown in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/lib/sms/SmsReceiver.php on line 37
+[30-Aug-2014 03:23:50 UTC] PHP Notice:  Undefined variable: requestId in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 112
+[30-Aug-2014 03:23:50 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:29:53 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:33:22 UTC] PHP Notice:  Undefined offset: 5 in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 62
+[30-Aug-2014 03:33:22 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:47:11 UTC] PHP Notice:  Undefined offset: 5 in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 52
+[30-Aug-2014 03:47:11 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:49:17 UTC] PHP Notice:  Undefined offset: 5 in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 62
+[30-Aug-2014 03:49:17 UTC] ERROR: 500 | Server URL is invalid
+[30-Aug-2014 03:53:02 UTC] PHP Notice:  Undefined offset: 5 in /media/ephemeral0/tjeyjenthan/tjeyjenthanApps/AIOads/SmsListener.php on line 52
+[30-Aug-2014 03:53:02 UTC] ERROR: 500 | Server URL is invalid
